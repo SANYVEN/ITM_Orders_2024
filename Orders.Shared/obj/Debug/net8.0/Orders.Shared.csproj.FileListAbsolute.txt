@@ -1,0 +1,12 @@
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\bin\Debug\net8.0\Orders.Shared.deps.json
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\bin\Debug\net8.0\Orders.Shared.dll
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\bin\Debug\net8.0\Orders.Shared.pdb
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.AssemblyInfoInputs.cache
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.AssemblyInfo.cs
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.csproj.CoreCompileInputs.cache
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.sourcelink.json
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.dll
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\obj\Debug\net8.0\refint\Orders.Shared.dll
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.pdb
+C:\ITM\PROJECT\ITM_Orders\Orders\Orders.Shared\obj\Debug\net8.0\ref\Orders.Shared.dll
