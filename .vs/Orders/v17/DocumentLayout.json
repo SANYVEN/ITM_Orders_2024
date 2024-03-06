@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1D20DE4-176E-4B2C-A6F0-8CA6C90A0736}|Orders.Frontend\\Orders.Frontend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D20DE4-176E-4B2C-A6F0-8CA6C90A0736}|Orders.Frontend\\Orders.Frontend.csproj|solutionrelative:orders.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D20DE4-176E-4B2C-A6F0-8CA6C90A0736}|Orders.Frontend\\Orders.Frontend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.frontend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D20DE4-176E-4B2C-A6F0-8CA6C90A0736}|Orders.Frontend\\Orders.Frontend.csproj|solutionrelative:orders.frontend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D20DE4-176E-4B2C-A6F0-8CA6C90A0736}|Orders.Frontend\\Orders.Frontend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.frontend\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D20DE4-176E-4B2C-A6F0-8CA6C90A0736}|Orders.Frontend\\Orders.Frontend.csproj|solutionrelative:orders.frontend\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D20DE4-176E-4B2C-A6F0-8CA6C90A0736}|Orders.Frontend\\Orders.Frontend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.frontend\\repositories\\httpresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D20DE4-176E-4B2C-A6F0-8CA6C90A0736}|Orders.Frontend\\Orders.Frontend.csproj|solutionrelative:orders.frontend\\repositories\\httpresponsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.backend\\migrations\\20240224031830_addcounttriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\migrations\\20240224031830_addcounttriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.backend\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.backend\\migrations\\20240224031830_addcounttriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\migrations\\20240224031830_addcounttriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|c:\\itm\\project\\itm_orders\\orders\\orders.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB871AE4-08AE-42A4-AF3A-0FF547BCED17}|Orders.Backend\\Orders.Backend.csproj|solutionrelative:orders.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,32 +62,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Backend\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "Orders.Backend\\Controllers\\CountriesController.cs",
-              "ToolTip": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Backend\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "Orders.Backend\\Controllers\\CountriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Frontend\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Orders.Frontend\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Frontend\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Orders.Frontend\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwC0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T03:25:30.012Z",
+              "WhenOpened": "2024-03-06T01:29:16.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Frontend\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Orders.Frontend\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Frontend\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Orders.Frontend\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T01:26:25.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HttpResponseWrapper.cs",
+              "DocumentMoniker": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Frontend\\Repositories\\HttpResponseWrapper.cs",
+              "RelativeDocumentMoniker": "Orders.Frontend\\Repositories\\HttpResponseWrapper.cs",
+              "ToolTip": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Frontend\\Repositories\\HttpResponseWrapper.cs",
+              "RelativeToolTip": "Orders.Frontend\\Repositories\\HttpResponseWrapper.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T01:17:14.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Orders.Frontend\\Program.cs",
+              "ToolTip": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Frontend\\Program.cs",
+              "RelativeToolTip": "Orders.Frontend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T01:10:54.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20240224031830_AddCounttriesEntity.cs",
               "DocumentMoniker": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Backend\\Migrations\\20240224031830_AddCounttriesEntity.cs",
               "RelativeDocumentMoniker": "Orders.Backend\\Migrations\\20240224031830_AddCounttriesEntity.cs",
               "ToolTip": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Backend\\Migrations\\20240224031830_AddCounttriesEntity.cs",
               "RelativeToolTip": "Orders.Backend\\Migrations\\20240224031830_AddCounttriesEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T03:18:30.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Backend\\Program.cs",
               "RelativeDocumentMoniker": "Orders.Backend\\Program.cs",
@@ -83,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Backend\\appsettings.json",
               "RelativeDocumentMoniker": "Orders.Backend\\appsettings.json",
@@ -101,9 +156,22 @@
               "RelativeDocumentMoniker": "Orders.Backend\\Data\\DataContext.cs",
               "ToolTip": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Backend\\Data\\DataContext.cs",
               "RelativeToolTip": "Orders.Backend\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T02:42:51.892Z"
+              "WhenOpened": "2024-02-24T02:42:51.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Backend\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Orders.Backend\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\ITM\\PROJECT\\ITM_Orders\\Orders\\Orders.Backend\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Orders.Backend\\Controllers\\CountriesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvw4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T03:25:30.012Z"
             }
           ]
         }
